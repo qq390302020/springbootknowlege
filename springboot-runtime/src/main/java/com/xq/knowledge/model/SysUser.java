@@ -1,7 +1,7 @@
 package com.xq.knowledge.model;
 
 public class SysUser {
-    private String userid;
+    private String userid;   //用户id
 
     private String password;
 
